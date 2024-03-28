@@ -1,6 +1,8 @@
 # Learning Tailwind CSS 🚀🎨
 
 This repository is a beginner's project focused on learning and practicing Tailwind CSS, a utility-first CSS framework. It includes a simple HTML file with various components styled using Tailwind CSS classes.
+#TailwindCSS #FrontEndDevelopment #WebDesign #LearningNewSkills 🔥
+
 
 ## Table of Contents
 
@@ -8,8 +10,7 @@ This repository is a beginner's project focused on learning and practicing Tailw
 - [Prerequisites](#prerequisites) ⚙️
 - [Installation](#installation) 🛠
 - [Learning Resources](#learning-resources) 📚
-- [Contributing](#contributing) 🤝
-- [License](#license) 📄
+- [Snapshots](#snapshots) 📄
 
 ## Introduction
 
@@ -45,4 +46,3 @@ Here are some useful resources to learn Tailwind CSS:
 
 ![image](https://github.com/Ibrahim-Naseef/Tailwind-CSS/assets/156147657/b8ef751d-bf57-41b6-97c4-519536a6e99d)
 
-#TailwindCSS #FrontEndDevelopment #WebDesign #LearningNewSkills 🔥
