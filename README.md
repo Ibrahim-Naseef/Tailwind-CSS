@@ -7,7 +7,6 @@ This repository is a beginner's project focused on learning and practicing Tailw
 - [Introduction](#introduction) 📚
 - [Prerequisites](#prerequisites) ⚙️
 - [Installation](#installation) 🛠
-- [Usage](#usage) 🚀
 - [Learning Resources](#learning-resources) 📚
 - [Contributing](#contributing) 🤝
 - [License](#license) 📄
